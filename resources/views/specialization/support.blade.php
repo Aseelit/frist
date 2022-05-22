@@ -24,9 +24,8 @@ Inner intro START -->
 			<div class="col-md-6 mt-4 mt-md-0">
         <a href="#" class="badge bg-primary-soft text-primary mb-2"><i class="fas fa-circle me-2 small fw-bold"></i>الحاسب الالي</a>
 				<h1 class="display-6">تخصص الدعم الفني</h1>
-				<p class="lead">Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing 
-					Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing
-					Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing.
+				<p class="lead">
+					يطلق مصطلح الدعم الفني على التخصص الذي يهتم بمساعدة الناس في كثير من الاشياء التقنية والفنية التي يجهلون حلها واما في الحاسب الالي فغالبا مايطلق على التخصص الذي يربط بين الاجزاء المادية او البرامج
 				</p>
 			</div>			 
 		</div>
@@ -99,7 +98,7 @@ Inner intro START -->
 					</div>
 					<div class="col-md-6">
 						<h4>عدد الطلاب الخريجين</h4>
-						<p>Meant balls it if up doubt small purse. Required his you put the outlived answered position.</p>
+						<p>عدد الطلاب الخريجين لكل ترم 150 طالب</p>
 					</div>
 				
 				
@@ -109,7 +108,7 @@ Inner intro START -->
 						<div class="row mt-5">
 						<div class="col-md-6">
 							<h4>النسبة الموزوزنه للقبول في التخصص</h4>
-							<p>Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing.
+							<p>150 طالب.
 							</p>
 						</div>
 						<div class="col-md-6">

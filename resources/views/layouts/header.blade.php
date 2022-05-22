@@ -193,11 +193,7 @@
 						<div class="switch"></div>
 					</div>
 				</div>
-				{{--  <!-- Nav Button -->  --}}
-				<div class="nav-item d-none d-md-block">
-					<a href="javascript::void();" class="btn btn-sm btn-danger mb-0 mx-2">Design and Programming <strong>050 911 8491</strong></a>
-				</div>
-				{{--  <!-- Nav Search -->  --}}
+				
 				<div class="nav-item dropdown nav-search dropdown-toggle-icon-none">
 					<a class="nav-link pe-0 dropdown-toggle" role="button" href="#" id="navSearch" data-bs-toggle="dropdown" aria-expanded="false">
 						<i class="bi bi-search fs-4"> </i>

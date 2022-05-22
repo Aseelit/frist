@@ -105,3 +105,9 @@ Route::get('specialization-industrial-controlled-electronics', function () {
     Route::get('Contact-us', function () {
         return view('layouts.contact');
     })->name('contact-us');
+
+    //  قسم الالكترونيات الصناعية والتحكم
+    
+    Route::get('section_specialization-industrial-controlled-electronics', function () {
+        return view('section.section_industrial');
+    })->name('section_specialization-industrial-controlled-electronics');

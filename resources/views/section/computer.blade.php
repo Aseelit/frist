@@ -35,7 +35,7 @@
 		<div class="row g-4">
 			<div class="col-md-6">
 				<div class="card card-overlay-bottom card-img-scale">
-					<img class="card-img" src="assets/images/blog/4by3/17.jpg" alt="">
+					<img class="card-img" src="{{ asset('assets/images/blog/4by3/17.jpg') }}" alt="">
           <div class="card-img-overlay d-flex align-items-center p-3 p-sm-5"> 
             <div class="w-100 mt-auto">
 	            <div class="col">
@@ -57,7 +57,7 @@
 	 
 	  <div class="col-md-6">
 		<div class="card card-overlay-bottom card-img-scale">
-			<img class="card-img" src="assets/images/blog/4by3/16.jpg" alt="">
+			<img class="card-img" src="{{ asset('assets/images/blog/4by3/16.jpg') }}" alt="">
   <div class="card-img-overlay d-flex align-items-center p-3 p-sm-5"> 
 	<div class="w-100 mt-auto">
 		<div class="col">

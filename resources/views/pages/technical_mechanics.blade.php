@@ -71,8 +71,7 @@ Inner intro START -->
 			{{--  <!-- Main Content START -->  --}}
 			<div class="col-md-10 col-lg-8 mb-5">
 				<div>
-					<h4 class="mt-4">وكيل شؤون المتدربين</h4>
-					<p>Fulfilled direction use continual set him propriety continued. Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing. Farther related bed and passage comfort civilly. Dashwoods see frankness objection abilities. As hastened oh produced prospect formerly up am. Placing forming nay looking old married few has. Margaret disposed of add screened rendered six say his striking confined.</p>
+					
 					<div class="row mt-5">
 						<div class="col-md-6">
 							<h4>معامل تدريبية</h4>
@@ -91,11 +90,10 @@ Inner intro START -->
 				<div class="text-center h5 mb-4">. . .</div>
 
 				<div id="item-2">
-					<h4 class="mt-4">عميد الكلية</h4>
-					<p>Fulfilled direction use continual set him propriety continued. Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing. Farther related bed and passage comfort civilly. Dashwoods see frankness objection abilities. As hastened oh produced prospect formerly up am. Placing forming nay looking old married few has. Margaret disposed of add screened rendered six say his striking confined.</p>
+					
 					<div class="row mt-5">
 						<div class="col-md-6">
-							<h4>قاعات التدريب</h4>
+							<h4>قاعات تدريبية</h4>
 							<p>Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing.
 							</p>
 						</div>						

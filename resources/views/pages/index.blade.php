@@ -376,7 +376,7 @@
                   <div class="w-100 mt-auto">
                     
                     <!-- Card title -->
-                    <h4 class="text-white"><a href="{{ route('industrial-controlled-electronics') }}" class="btn-link text-reset stretched-link">مبنى قسم الاكترونيات تخصصات الاكترونيات</a></h4>
+                    <h4 class="text-white"><a href="{{ route('section_specialization-industrial-controlled-electronics') }}" class="btn-link text-reset stretched-link">مبنى قسم الاكترونيات تخصصات الاكترونيات</a></h4>
                     <!-- Card info -->
                     <ul class="nav nav-divider text-white-force align-items-center small">
                       <li class="nav-item position-relative">

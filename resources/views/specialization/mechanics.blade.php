@@ -24,9 +24,8 @@ Inner intro START -->
 			<div class="col-md-6 mt-4 mt-md-0">
         <a href="#" class="badge bg-primary-soft text-primary mb-2"><i class="fas fa-circle me-2 small fw-bold"></i>التقنية الميكانيكا والدراسات العامة</a>
 				<h1 class="display-6">تخصص الميكانيكيا</h1>
-				<p class="lead">Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing 
-					Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing
-					Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing.
+				<p class="lead">
+					يهتم بتصميم وتصنيع وتشغيل وتطوير الالات او الجهزة 
 				</p>
 			</div>			 
 		</div>
