@@ -35,8 +35,8 @@
             <p>تواصل معنا لترى كيف يمكننا مساعدتك في استفسارك
 			</p>
 			 <address>المدينة المنور, بجوار البيت العريق</address>
-			 <p>Call: <a href="#" class="text-reset"><u>0176228395 (واتس اب)</u></a></p>
-			 <p>Email: <a href="#" class="text-reset"><u>فرفؤزلخرزسش</u></a></p>
+			 <p>Call: <a href="#" class="text-reset"><u>0176228305 </u></a></p>
+			 <p>Email: <a href="#" class="text-reset"><u>tvtc_g_bisha</u></a></p>
             <p>اوقات الدوام: من السبت الى الخميس 
               <br>
               9:30 am to 6:00 pm
@@ -47,8 +47,8 @@
             <p>تواصل معنا لترى كيف يمكننا مساعدتك في استفسارك
 			</p>
             <address>الرياض,الخرج</address>
-            <p>Call: <a href="#" class="text-reset"><u>0176228395 (واتس اب)</u></a></p>
-            <p>Email: <a href="#" class="text-reset"><u>aseelit77@gmail.com</u></a></p>
+            <p>Call: <a href="#" class="text-reset"><u>0176228305</u></a></p>
+            <p>twiter: <a href="#" class="text-reset"><u>tvtc_g_bisha</u></a></p>
             <p>اوقات الدوام: من السبت الى الخميس 
               <br>
               9:00 am to 5:30 pm
