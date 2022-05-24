@@ -25,7 +25,7 @@ Inner intro START -->
         <a href="#" class="badge bg-primary-soft text-primary mb-2"><i class="fas fa-circle me-2 small fw-bold"></i>التقنية الميكانيكا والدراسات العامة</a>
 				<h1 class="display-6">تخصص الميكانيكيا</h1>
 				<p class="lead">
-					يهتم بتصميم وتصنيع وتشغيل وتطوير الالات او الجهزة 
+					يهتم بتصميم وتصنيع وتشغيل وتطوير الالات او الجهزة المستخدمة في ختلف قطاعات النشاطات الاقتصادية وبتعريف فان الهندسة الميكانيكية هي فرع من فروع الهندسة تهتم بالتصميم والتطوي والتصنيع و بالتركيب وتشغيل المحركات والالات وعمليات التصنيع وهي مهتمه بشكل خاص بالقوا والحركة وهو علم يهتم بدراسة الطاقة بكافة صورها وتاثيرها على الجسم وهو تخصص واسع له علاقة بكل مجالات الحياة
 				</p>
 			</div>			 
 		</div>
@@ -98,8 +98,8 @@ Inner intro START -->
 					</div>
 					<div class="col-md-6">
 						<h4>عدد الطلاب الخريجين</h4>
-						<p>Meant balls it if up doubt small purse. Required his you put the outlived answered position.</p>
-					</div>
+						<p>
+							150 طالب					</div>
 				
 				
 				</div>
@@ -108,13 +108,10 @@ Inner intro START -->
 						<div class="row mt-5">
 						<div class="col-md-6">
 							<h4>النسبة الموزوزنه للقبول في التخصص</h4>
-							<p>Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing.
-							</p>
+							<p>
+								80%								</p>
 						</div>
-						<div class="col-md-6">
-							<h4>عدد المعامل</h4>
-							<p>Meant balls it if up doubt small purse. Required his you put the outlived answered position.</p>
-						</div>
+					
 					</div>
 				</div>
 			

@@ -99,8 +99,8 @@ Inner intro START -->
 					</div>
 					<div class="col-md-6">
 						<h4>عدد الطلاب الخريجين</h4>
-						<p>Meant balls it if up doubt small purse. Required his you put the outlived answered position.</p>
-					</div>
+						<p>
+							150 طالب					</div>
 				
 				
 				</div>
@@ -109,13 +109,10 @@ Inner intro START -->
 						<div class="row mt-5">
 						<div class="col-md-6">
 							<h4>النسبة الموزوزنه للقبول في التخصص</h4>
-							<p>Saw met applauded favorite deficient engrossed concealed and her. Concluded boy perpetual old supposing.
-							</p>
+							<p>
+								80%								</p>
 						</div>
-						<div class="col-md-6">
-							<h4>عدد المعامل</h4>
-							<p>Meant balls it if up doubt small purse. Required his you put the outlived answered position.</p>
-						</div>
+						
 					</div>
 				</div>
 			
